@@ -241,37 +241,4 @@ body {
     border: 0 none;
   }
 
-  @media screen and (max-width: 980px) {
-    body{
-        background-color: rgb(255, 47, 227);
-    }
-
-.wrapper {
-    width: 600px;
-
-}
-}
-
-@media screen and (max-width: 768px) {
-    body{
-        background-color: rgb(255, 47, 227);
-    }
-
-.wrapper {
-    width: 600px;
-}
-}
-
-@media screen and (max-width: 640px) {
-    body{
-        background-color: rgb(255, 47, 227);
-    }
-
-.wrapper {
-    width: 600px;
-}
-}
-
-
- 
   
